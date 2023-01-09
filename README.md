@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, world! 👋
 
-<!--
-**geazi-anc/geazi-anc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=geazi-anc)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏾‍💻 Data Engineer and Machine Learning learner
+- 🎓 degree in Computer Engineering at [Centro Universitário Facens](https://facens.br/)
+- 📚 Blog Writer [Dev Community](https://dev.to/geazi_anc)
+- 🔭 I’m currently working on data engineering building data pipelines on Google Cloud Platform
+- 🌱 I’m currently learning about fundamentals of data engineering and Machine Learning algorithms
+- 😄 Pronouns: he/his
+
+---
+
+## Get in Touch! 📬
+
+- 🌎 [LinkedIn](https://br.linkedin.com/in/geazi-antunes-aa9264163)
+- 🧑🏾‍💻 [Dev Community Profile](https://dev.to/geazi_anc)
+
+## Some of my Projects! 🎨
+
