@@ -20,3 +20,12 @@
 
 ## Some of my Projects! 🎨
 
+Learn more about my projects 💚. Data engineering, machine learning, software engineering, data analysis, and more 🎲🐍.
+
+You can check out a brief summary about them below. If you are interested, go to the repositories to read the full description 🙏🏾.
+
+### Dracula: a brief analysis to the most common words in Dracula, by Bram Stoker
+
+A landmark in Gothic literature, the iconic novel Dracula, written by Bram Stoker in 1897, stirs the emotions of people across the world. Today, to introduce Spark's new concepts and features, we will develop a brief notebook to analyze the most common words in this classic book 🧛🏼‍♂️.
+
+You can check this project both portuguese and english, [here](https://github.com/geazi-anc/dracula).
